@@ -15,12 +15,15 @@ Undercover: survive to the end
 Blank: survive untill all "undercover" is killed
 
 ## How to use it
-Download Node.js, open terminal to install discord api and mongodb
+Download Node.js, open terminal to install discord api, tenor api and mongodb
 ```
 npm install discord.js
 ```
 ```
 npm install mongodb
+```
+```
+npm install tenor.js
 ```
 
 change the token in index.js into your application's token, you can find this in https://discord.com/developers/applications by add new application > bot > token
