@@ -2,6 +2,7 @@
 
 ## Description
 This is a bot in discord chat that help you and your friend play the game "Who's undercover" together.
+
 **This gonna be full of bug, because i have no friend to play with, hence no one can help me debug**
 
 
